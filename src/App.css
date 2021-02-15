@@ -1,0 +1,23 @@
+
+body{
+
+  background-image: linear-gradient(to left top, #a2e0ed, #88e7e4, #82edcb, #99eea5, #c1ea7c);
+  display: fixed;
+  z-index: -1;
+  font-family: Gerogia,'sans serif';
+}
+.header{
+  font-size: 40px;
+  background: -webkit-linear-gradient(red, yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+.center{
+	display: flex;
+	justify-content: center;
+}
+button{
+	cursor: pointer;
+}
